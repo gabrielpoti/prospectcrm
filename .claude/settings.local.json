@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp -r /home/user/.claude /home/user/prospectcrm/)",
+      "Bash(cp -r /home/user/.claude-flow /home/user/prospectcrm/)",
+      "Bash(cp /home/user/.mcp.json /home/user/prospectcrm/)",
+      "Bash(cp /home/user/CLAUDE.md /home/user/prospectcrm/)"
+    ]
+  }
+}
